@@ -6,5 +6,6 @@ internal interface INotificationWrapper
     void RegisterNotification(string title, string body, DateTime fireTime, string channel);
 
     void ClearNotifications();
-    public IEnumerator RequestAutorization();
+
+    public IEnumerator RequestAuthorization();
 }

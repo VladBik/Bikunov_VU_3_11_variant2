@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 using Unity.Notifications.iOS;
-using System.Collections;
+
 
 internal class iOSNotificationWrapper : INotificationWrapper
 {

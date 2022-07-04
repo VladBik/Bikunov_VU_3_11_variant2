@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System;
 
 public class NotificationManager : MonoBehaviour
 {
@@ -23,7 +24,7 @@ public class NotificationManager : MonoBehaviour
 
         DontDestroyOnLoad(this.gameObject);
 
-        _wrapper.RequestAuthorization();
+        _wrapper.RequestAutorization();
     }
 
     private void OnApplicationPause(bool pause)

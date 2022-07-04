@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AdManager.cs" />
      <Compile Include="Assets\Scripts\AIGameState.cs" />
      <Compile Include="Assets\Scripts\BoardBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\CardBehaviourScript.cs" />

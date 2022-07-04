@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: DefaultCompanyNetology22
   productName: Bikunov_VU_3_11_variant2
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
@@ -600,10 +600,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: f8107e52-b7fd-4152-9e2d-000a053c2378
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: Bikunov_VU_3_11_variant2
+  organizationId: anrydemort
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
