@@ -1,0 +1,10 @@
+D:\UnityLearn1\Bikunov_VU_3_11_variant2\custom-library-src\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.deps.json
+D:\UnityLearn1\Bikunov_VU_3_11_variant2\custom-library-src\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.dll
+D:\UnityLearn1\Bikunov_VU_3_11_variant2\custom-library-src\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary1.pdb
+D:\UnityLearn1\Bikunov_VU_3_11_variant2\custom-library-src\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.AssemblyReference.cache
+D:\UnityLearn1\Bikunov_VU_3_11_variant2\custom-library-src\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityLearn1\Bikunov_VU_3_11_variant2\custom-library-src\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\UnityLearn1\Bikunov_VU_3_11_variant2\custom-library-src\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+D:\UnityLearn1\Bikunov_VU_3_11_variant2\custom-library-src\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\UnityLearn1\Bikunov_VU_3_11_variant2\custom-library-src\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.dll
+D:\UnityLearn1\Bikunov_VU_3_11_variant2\custom-library-src\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary1.pdb

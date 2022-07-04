@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BdhbLNMqOOgz66LipTAlqpLO1dvmLqMI7TgoQU6FJf6FOrIGfg7kjMYpLM2riHZnJ7PQ6EdsbEvhHljrFWTXBQ==",
+  "success": true,
+  "projectFilePath": "D:\\UnityLearn1\\Bikunov_VU_3_11_variant2\\custom-library-src\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AnryDM\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\AnryDM\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
