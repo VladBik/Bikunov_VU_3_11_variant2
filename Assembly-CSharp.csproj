@@ -61,6 +61,9 @@
      <Compile Include="Assets\Scripts\CardGameBase.cs" />
      <Compile Include="Assets\Scripts\HeroBehaviourScript.cs" />
      <Compile Include="Assets\Scripts\MenuManager.cs" />
+     <Compile Include="Assets\Scripts\Notification\AndroidNotificationWrapper.cs" />
+     <Compile Include="Assets\Scripts\Notification\INotificationWrapper.cs" />
+     <Compile Include="Assets\Scripts\Notification\iOSNotificationWrapper.cs" />
      <Compile Include="Assets\Scripts\Notification\Notification Manager.cs" />
      <Compile Include="Assets\Scripts\Test2.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
@@ -120,6 +123,9 @@
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/UnityLearn1/Bikunov_VU_3_11_variant2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
+ <Reference Include="Unity.Notifications">
+ <HintPath>D:/UnityLearn1/Bikunov_VU_3_11_variant2/Library/ScriptAssemblies/Unity.Notifications.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>D:/UnityLearn1/Bikunov_VU_3_11_variant2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
@@ -132,20 +138,17 @@
  <Reference Include="Unity.CollabProxy.Editor">
  <HintPath>D:/UnityLearn1/Bikunov_VU_3_11_variant2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
- <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/UnityLearn1/Bikunov_VU_3_11_variant2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Analytics.DataPrivacy">
- <HintPath>D:/UnityLearn1/Bikunov_VU_3_11_variant2/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
- </Reference>
- <Reference Include="Unity.Notifications">
- <HintPath>D:/UnityLearn1/Bikunov_VU_3_11_variant2/Library/ScriptAssemblies/Unity.Notifications.dll</HintPath>
- </Reference>
  <Reference Include="Unity.Notifications.iOS">
  <HintPath>D:/UnityLearn1/Bikunov_VU_3_11_variant2/Library/ScriptAssemblies/Unity.Notifications.iOS.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Notifications.Android">
  <HintPath>D:/UnityLearn1/Bikunov_VU_3_11_variant2/Library/ScriptAssemblies/Unity.Notifications.Android.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro">
+ <HintPath>D:/UnityLearn1/Bikunov_VU_3_11_variant2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.DataPrivacy">
+ <HintPath>D:/UnityLearn1/Bikunov_VU_3_11_variant2/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Program Files/UnityInstalls/2019.1.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -330,6 +333,9 @@
  <Reference Include="nunit.framework">
  <HintPath>D:/Program Files/UnityInstalls/2019.1.4f1/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
+ <Reference Include="ClassLibrary1">
+ <HintPath>D:/UnityLearn1/Bikunov_VU_3_11_variant2/Assets/Plugins/ClassLibrary1.dll</HintPath>
+ </Reference>
  <Reference Include="Unity.Analytics.Editor">
  <HintPath>D:/UnityLearn1/Bikunov_VU_3_11_variant2/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
@@ -338,9 +344,6 @@
  </Reference>
  <Reference Include="Unity.Analytics.Tracker">
  <HintPath>D:/UnityLearn1/Bikunov_VU_3_11_variant2/Library/PackageCache/com.unity.analytics@3.3.2/Unity.Analytics.Tracker.dll</HintPath>
- </Reference>
- <Reference Include="ClassLibrary1">
- <HintPath>D:/UnityLearn1/Bikunov_VU_3_11_variant2/Assets/Plugins/ClassLibrary1.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>D:/Program Files/UnityInstalls/2019.1.4f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
